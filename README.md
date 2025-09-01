@@ -2,8 +2,7 @@
 ## INTEGRANTES
 NOMBRE DE LOS INEGRANTAS DE EQUIPO
 
-- Angélica Magdalena Hernández Acuña
-- tt
-- tt
+- **Andrea Bonilla Hernández**
+- **Angélica Magdalena Hernández Acuña**
 
 ## Repositorio Sistemas operativos en tiempo real

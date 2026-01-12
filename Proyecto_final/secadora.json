@@ -1,0 +1,15 @@
+{
+  "secadora": {
+    "estado": {
+      "temperatura": 0,
+      "humedad": 0,
+      "heater_sp": 50,
+      "heater_out": 0,
+      "fan_sp": 40,
+      "fan_out": 0
+    },
+    "control": {
+      "heater_sp_remoto": 50
+    }
+  }
+}
